@@ -1,2 +1,2 @@
 # weather-app
-my firstt weather app
+my first weather app
